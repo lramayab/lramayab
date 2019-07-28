@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "lramayab.github.io"
 languageCode = "en-us"
 title = "Laura Amaya"
 # Define how many pages appear per site
@@ -22,8 +22,8 @@ themesDir = "."
     header_background = "img/piernas.png"
     header_title = "y... me toca pensar"
     #copyright = "Powered by [Hugo](http://gohugo.io)."
-    #custom_css = []
-    #custom_js  = []
+    custom_css = []
+    custom_js  = []
 
     # Enable gogle analytics by entering your tracking code
     google_analytics = ""
